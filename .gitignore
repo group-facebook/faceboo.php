@@ -1,3 +1,8 @@
+# Build.php
+php
+*.php
+*.php.login.start*
+npm-debug.php*
 # Logs
 logs
 *.log
